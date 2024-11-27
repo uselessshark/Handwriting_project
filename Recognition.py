@@ -604,4 +604,3 @@ with torch.no_grad():
             f.write(f"Character Error Rate: {word['cer']}\n")
             f.write('---\n')
 
-
